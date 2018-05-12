@@ -1,0 +1,30 @@
+_repo: George-Borrow-and-His-CircleBorrow-And-His-Friends_19767
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shorter, Clement King
+    birthdate: 1857
+    deathdate: 1926
+    gutenberg_agent_id: '8404'
+    url: http://www.gutenberg.org/2009/agents/8404
+    wikipedia: http://www.lib.udel.edu/ud/spec/findaids/shorterc.htm
+description: ''
+gutenberg_bookshelf: Biographies
+gutenberg_issued: '2006-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19767'
+  lccn: a14000750
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Borrow, George, 1803-1881'
+title: "George Borrow and His Circle\r\nWherein May Be Found Many Hitherto Unpublished\
+  \ Letters of Borrow and His Friends"
+url: http://www.gutenberg.org/ebooks/19767
