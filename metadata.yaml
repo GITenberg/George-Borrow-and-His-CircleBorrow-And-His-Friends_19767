@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8404
     wikipedia: http://www.lib.udel.edu/ud/spec/findaids/shorterc.htm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19767#George-Borrow-and-His-CircleBorrow-And-His-Friends
 gutenberg_bookshelf: Biographies
 gutenberg_issued: '2006-11-12'
 gutenberg_type: Text
